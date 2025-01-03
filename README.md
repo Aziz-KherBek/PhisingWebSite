@@ -25,4 +25,5 @@ The website includes a form where users can input their email address and passwo
 - **Security Warning**: This setup is for educational purposes only. Capturing user credentials without their explicit consent is unethical and potentially illegal.
 
 ## WebSite 
-![My Example Image] (/Screenshot 2025-01-03 095219.png)
+
+![My Example Image](Screenshot 2025-01-03 095219.png)
