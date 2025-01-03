@@ -26,4 +26,4 @@ The website includes a form where users can input their email address and passwo
 
 ## WebSite 
 
-![My Example Image](Screenshot 2025-01-03 095219.png)
+![My Example Image](https://github.com/Aziz-KherBek/PhisingWebSite/blob/main/Screenshot%202025-01-03%20095219.png)
